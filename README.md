@@ -1,71 +1,95 @@
-# Ex.No.4 – Generate the Prompt for Different Prompt Types
-## AIM
+# Ex.No.4-Generate the Prompt for the following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts.
 
-### To write prompts for the following prompt types:
+## Aim: 
+  To write the prompt for the following prompt types.
 
-Comparative Analysis Prompt
-Experiential Perspective Prompt
-Everyday Functioning Prompt
+1. Comparative Analysis Prompt
 
-## SCENARIO:
+2. Experiential Perspective Prompt
 
-You are planning to buy a new smartphone for daily use. The phone should provide long battery life, an AI-powered camera, and smooth performance for activities such as social media, online classes, gaming, entertainment, and communication. You are confused between two smartphone models and want to identify the best choice. You also want to understand how the smartphone features help in everyday life.
+3. Everyday Functioning Prompts
 
-## PROCEDURE:
-### 1. Define the Scenario and Use Case
+### Explanation -
+  Write the prompt for any one use case from Unit 5 or any 2 own use cases for each type.
 
-The scenario focuses on comparing two smartphones and understanding how their features improve daily activities like communication, photography, online learning, and productivity.
+## Procedure:
 
-### 2. Prompt Patterns for Each Prompt Type
+### 1.Define the Scenario and Use Case:
 
-## A. Comparative Analysis Prompt
-### Definition
+#### Scenario: 
 
-Comparative Analysis prompts are used to compare two or more concepts, technologies, products, or systems by identifying their similarities and differences.
+You are planning to buy a new smartphone for your daily use. You want a phone that supports long battery life, a good AI-powered camera for photography, and smooth performance for everyday tasks such as social media, online classes, and entertainment. However, you are confused between two smartphone models and want to make the best choice. At the same time, you also want to understand how such a smartphone would help you in your daily life.
 
-#### Example Prompt
+Compare the two smartphones in terms of battery life, AI camera features, performance, and price. Then explain from the perspective of a regular user how these features improve everyday activities such as communication, photography, and productivity, and suggest which smartphone would be more suitable for daily use.
 
-“Compare and contrast deep learning and machine learning.”
+### 2.Identify Prompt Patterns for Each Aspect: Idea Generation Prompts: Refer the following example for each prompt type:
 
-### Prompt for Smartphone Use Case
+#### Comparative Analysis Prompt : 
+• "Compare and contrast deep learning and machine learning."
+• "How do renewable and non-renewable energy sources differ?"
 
-“Compare two smartphones, Samsung Galaxy S25 and iPhone 17, in terms of battery life, AI camera features, gaming performance, display quality, storage, and price. Explain which smartphone is more suitable for students and daily users.”
+#### Experiential Perspective Prompt:
 
-#### Another Own Use Case
-
-“Compare electric vehicles and petrol vehicles in terms of cost, environmental impact, maintenance, and performance.”
-
-## B. Experiential Perspective Prompt
-### Definition
-
-Experiential Perspective prompts ask the AI to explain a topic from the viewpoint or experience of a specific person or role.
-
-#### Example Prompt
+“As a software engineer, what are the benefits of using cloud computing in your projects?”
 
 “From a student’s perspective, describe the challenges of online learning.”
 
-### Prompt for Smartphone Use Case
+#### Everyday Functioning Prompts:
 
-“From a college student’s perspective, explain how a smartphone with an AI-powered camera, long battery life, and smooth performance can improve online classes, communication, entertainment, and productivity.”
-
-#### Another Own Use Case
-
-“As a software engineer, explain how cloud computing helps in developing and managing applications efficiently.”
-
-## C. Everyday Functioning Prompt
-### Definition
-
-Everyday Functioning prompts explain how technologies or systems are used in day-to-day activities.
-
-#### Example Prompt
+“Describe the role of machine learning in everyday apps like YouTube or Netflix."
 
 “How is encryption used in daily life when sending WhatsApp messages?”
 
-### Prompt for Smartphone Use Case
+## OUTPUT:
+
+### A. Comparative Analysis Prompt
+#### Definition
+
+Comparative Analysis prompts are used to compare two or more concepts, technologies, products, or systems by identifying their similarities and differences.
+
+##### Example Prompt
+
+“Compare and contrast deep learning and machine learning.”
+
+#### Prompt for Smartphone Use Case
+
+“Compare two smartphones, Samsung Galaxy S25 and iPhone 17, in terms of battery life, AI camera features, gaming performance, display quality, storage, and price. Explain which smartphone is more suitable for students and daily users.”
+
+##### Another Own Use Case
+
+“Compare electric vehicles and petrol vehicles in terms of cost, environmental impact, maintenance, and performance.”
+
+### B. Experiential Perspective Prompt
+#### Definition
+
+Experiential Perspective prompts ask the AI to explain a topic from the viewpoint or experience of a specific person or role.
+
+##### Example Prompt
+
+“From a student’s perspective, describe the challenges of online learning.”
+
+#### Prompt for Smartphone Use Case
+
+“From a college student’s perspective, explain how a smartphone with an AI-powered camera, long battery life, and smooth performance can improve online classes, communication, entertainment, and productivity.”
+
+##### Another Own Use Case
+
+“As a software engineer, explain how cloud computing helps in developing and managing applications efficiently.”
+
+### C. Everyday Functioning Prompt
+#### Definition
+
+Everyday Functioning prompts explain how technologies or systems are used in day-to-day activities.
+
+##### Example Prompt
+
+“How is encryption used in daily life when sending WhatsApp messages?”
+
+#### Prompt for Smartphone Use Case
 
 “Describe how AI features in smartphones are used in daily activities such as photography, voice assistants, battery optimization, gaming, navigation, and social media usage.”
 
-#### Another Own Use Case
+##### Another Own Use Case
 
 “Explain how recommendation systems work in everyday applications like Netflix and YouTube.”
 
